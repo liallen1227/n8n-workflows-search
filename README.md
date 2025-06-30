@@ -38,13 +38,13 @@
     mysql:8.0
 
 執行完整流程
-# Step 1: 收集 workflow 列表
+## Step 1: 收集 workflow 列表
 - python src/e01_list_search2.py
 
-# Step 2: 逐一爬取詳細內容
+## Step 2: 逐一爬取詳細內容
 - python src/e02_get_all_workflow.py
 
-# Step 3: 寫入 MySQL 資料庫
+## Step 3: 寫入 MySQL 資料庫
 - python src/t03_insert_mysql.py
 
 查詢關鍵字（Gemini 語意搜尋）
