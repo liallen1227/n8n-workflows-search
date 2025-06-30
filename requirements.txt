@@ -1,0 +1,6 @@
+pandas
+pymysql
+selenium
+cryptography
+webdriver-manager
+google-generativeai
