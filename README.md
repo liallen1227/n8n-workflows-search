@@ -51,7 +51,7 @@ python src/t03_insert_mysql.py
 python src/search_workflow.py
 
 輸入關鍵字：郵件
-搜尋結果：
 1. 發送 Gmail 郵件通知
 2. 自動整理郵件附件並上傳至雲端
 3. 根據表單內容自動產生郵件回覆
+...
